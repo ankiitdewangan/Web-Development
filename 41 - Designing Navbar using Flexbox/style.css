@@ -1,0 +1,37 @@
+
+        .logo {
+            background-color: blue;
+            width: 40px;
+            height: 23px;
+        }
+
+        nav {
+            display: flex;
+            justify-content: space-around;
+            align-content: center;
+            font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+            margin-top: 50px;
+        }
+
+        .right ul {
+            display: flex;
+            gap: 56px;
+
+        }
+
+        .right ul li {
+            list-style: none;
+            font-size: 75px;
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+        }
+
+        .logo img {
+            width: 535px;
+        }
+
+        .right ul li img {
+            height: 60px;
+        }
+    
