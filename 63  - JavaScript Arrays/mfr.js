@@ -28,3 +28,4 @@ const red = (a, b) =>{
 }
 
 console.log(arr2.reduce(red));
+
