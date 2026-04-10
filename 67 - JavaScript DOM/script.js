@@ -13,3 +13,5 @@ console.log(document.body.childNodes[4]);
 console.log(document.body.firstElementChild);
 
 console.log(document.body.firstElementChild.childNodes)
+console.log(document.body.firstElementChild.children[3].nextElementSibling)
+console.log(document.body.firstElementChild.children[3].previousElementSibling);
